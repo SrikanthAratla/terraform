@@ -8,10 +8,10 @@ This README would normally document whatever steps are necessary to get your inf
 
 ### How do I get set up? ###
 
-* Summary of set up: Terraform code to manage Linux infrastructure. Specifically, AWS & VMware
+* Summary of set up: Terraform code to manage Linux infrastructure. Specifically, AWS & VMware.
 * Dependencies: Adjust the relevant variables to match your Terraform code.
-* How to run tests: A simple '```console terraform plan```' command would sufice.
-* Deployment instructions: Clone the repository to your local, define values for your variables in 'vars.tf' file and run '```console terraform plan```' & '```console terraform apply```'. Voila..!! Your deployments/ applications are ready to work.
+* How to run tests: A simple ```terraform plan``` command would sufice.
+* Deployment instructions: Clone the repository to your local, define values for your variables in ```vars.tf``` file and run ```terraform plan``` and ```terraform apply```. Voila..!! Your deployments/ applications are ready to work.
 
 ### Contribution guidelines ###
 
